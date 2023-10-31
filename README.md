@@ -2,7 +2,7 @@
 
 A simple landing page featuring a QR code for Frontend Mentor. Improve your front-end skills by building projects and scan the QR code to visit Frontend Mentor and take your coding skills to the next level.
 
-![QR Code Landing Page](https://github.com/Maxim-Pv/task-frontendMentor/raw/main/screenshots/desktop_screen.png)
+![QR Code Landing Page] (https://github.com/Maxim-Pv/task-frontendMentor/blob/master/screenshots/desktop_screen.png)
 
 ## Table of Contents
 
@@ -24,8 +24,8 @@ This project is a simple landing page with a QR code, created as a challenge by 
 
 ## Screenshots
 
-![Landing Page](https://github.com/Maxim-Pv/task-frontendMentor/raw/main/screenshots/desktop_screen.png)
-![Landing Page](https://github.com/Maxim-Pv/task-frontendMentor/raw/main/screenshots/mobile_screen.png)
+![Landing Page](https://github.com/Maxim-Pv/task-frontendMentor/blob/master/screenshots/desktop_screen.png)
+![Landing Page](https://github.com/Maxim-Pv/task-frontendMentor/blob/master/screenshots/mobile_screen.png)
 
 ## Usage
 
